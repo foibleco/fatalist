@@ -1,0 +1,24 @@
+{
+  "name": "fatalist",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0"
+  },
+  "description": "life's impermanent, and so unpredictable. what would you wanna say to the people who matter to you?",
+  "main": "index.android.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foibleco/fatalist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foibleco/fatalist/issues"
+  },
+  "homepage": "https://github.com/foibleco/fatalist#readme"
+}
